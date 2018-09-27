@@ -1,7 +1,7 @@
 # NpmModuleTemplate
 This is a simple base project for npm packages.
 
-###Steps
+### Steps
 
 0.- Make sure you have installed npm and nodeJs
 
